@@ -1,3 +1,3 @@
-# Learn-QSharp
+# Learn QSharp
 
-Microsoft Learning projects for learning Q#
+Microsoft Learning Q# projects
